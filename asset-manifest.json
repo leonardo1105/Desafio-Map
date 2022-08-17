@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/desafio-map/static/css/main.b17dc2f1.css",
-    "main.js": "/desafio-map/static/js/main.674407c4.js",
-    "static/media/michael.webp": "/desafio-map/static/media/michael.7ac7fd0cd363c709bc27.webp",
-    "static/media/Johns3.webp": "/desafio-map/static/media/Johns3.6f7d7fcddd1450710438.webp",
-    "static/media/polly.webp": "/desafio-map/static/media/polly.95bb74b40f5e6a993c5e.webp",
-    "static/media/arthur.webp": "/desafio-map/static/media/arthur.c4d82c7d5eff27069191.webp",
-    "static/media/ada.webp": "/desafio-map/static/media/ada.d4b663da385b90a0efba.webp",
-    "static/media/Tommys3.webp": "/desafio-map/static/media/Tommys3.84c041f2463a2498d0e4.webp",
-    "index.html": "/desafio-map/index.html",
-    "main.b17dc2f1.css.map": "/desafio-map/static/css/main.b17dc2f1.css.map",
-    "main.674407c4.js.map": "/desafio-map/static/js/main.674407c4.js.map"
+    "main.css": "/Desafio-Map/static/css/main.b17dc2f1.css",
+    "main.js": "/Desafio-Map/static/js/main.3510d334.js",
+    "static/media/michael.webp": "/Desafio-Map/static/media/michael.7ac7fd0cd363c709bc27.webp",
+    "static/media/Johns3.webp": "/Desafio-Map/static/media/Johns3.6f7d7fcddd1450710438.webp",
+    "static/media/polly.webp": "/Desafio-Map/static/media/polly.95bb74b40f5e6a993c5e.webp",
+    "static/media/arthur.webp": "/Desafio-Map/static/media/arthur.c4d82c7d5eff27069191.webp",
+    "static/media/ada.webp": "/Desafio-Map/static/media/ada.d4b663da385b90a0efba.webp",
+    "static/media/Tommys3.webp": "/Desafio-Map/static/media/Tommys3.84c041f2463a2498d0e4.webp",
+    "index.html": "/Desafio-Map/index.html",
+    "main.b17dc2f1.css.map": "/Desafio-Map/static/css/main.b17dc2f1.css.map",
+    "main.3510d334.js.map": "/Desafio-Map/static/js/main.3510d334.js.map"
   },
   "entrypoints": [
     "static/css/main.b17dc2f1.css",
-    "static/js/main.674407c4.js"
+    "static/js/main.3510d334.js"
   ]
 }
